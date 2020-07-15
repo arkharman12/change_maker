@@ -3,6 +3,7 @@
 A program that calculates change after a purchase.
 
 ## Sample Run
+```
 Price of the item:
 21.37
 Cash tendered:
@@ -17,3 +18,4 @@ quarters: 2
 dimes: 1
 nickles: 0
 pennies: 3
+```
